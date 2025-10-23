@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 73d1eac216226954791ec0d8f21442c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2100582574806176802
+    second: THEGODDAMNDOORISOPENFUCKING2_0
+  - first:
+      213: 3853113237093045522
+    second: THEGODDAMNDOORISOPENFUCKING2_1
+  - first:
+      213: -2110196221624972003
+    second: THEGODDAMNDOORISOPENFUCKING2_2
+  - first:
+      213: -7848406097970764084
+    second: THEGODDAMNDOORISOPENFUCKING2_3
+  - first:
+      213: 2495448874473732910
+    second: THEGODDAMNDOORISOPENFUCKING2_4
+  - first:
+      213: -3853020609777008366
+    second: THEGODDAMNDOORISOPENFUCKING2_5
+  - first:
+      213: -5037115638881652303
+    second: THEGODDAMNDOORISOPENFUCKING2_6
+  - first:
+      213: -1084789273541236450
+    second: THEGODDAMNDOORISOPENFUCKING2_7
+  - first:
+      213: -993023427111968328
+    second: THEGODDAMNDOORISOPENFUCKING2_8
+  - first:
+      213: -1543625746452813581
+    second: THEGODDAMNDOORISOPENFUCKING2_9
+  - first:
+      213: 4358844495014465489
+    second: THEGODDAMNDOORISOPENFUCKING2_10
+  - first:
+      213: 7950906869869748576
+    second: THEGODDAMNDOORISOPENFUCKING2_11
+  - first:
+      213: 7321523524729675744
+    second: THEGODDAMNDOORISOPENFUCKING2_12
+  - first:
+      213: 1191185900158963263
+    second: THEGODDAMNDOORISOPENFUCKING2_13
+  - first:
+      213: -3724273215258118525
+    second: THEGODDAMNDOORISOPENFUCKING2_14
+  - first:
+      213: 2162943568425015478
+    second: THEGODDAMNDOORISOPENFUCKING2_15
+  - first:
+      213: -610374929644887418
+    second: THEGODDAMNDOORISOPENFUCKING2_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: THEGODDAMNDOORISOPENFUCKING2_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb6d4f074b39d2e0800000000000000
+      internalID: -2100582574806176802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THEGODDAMNDOORISOPENFUCKING2_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21559401312097530800000000000000
+      internalID: 3853113237093045522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THEGODDAMNDOORISOPENFUCKING2_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d0cab77b317b2e0800000000000000
+      internalID: -2110196221624972003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THEGODDAMNDOORISOPENFUCKING2_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6617d8c3cd41390800000000000000
+      internalID: -7848406097970764084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THEGODDAMNDOORISOPENFUCKING2_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bb726a78d91a220800000000000000
+      internalID: 2495448874473732910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THEGODDAMNDOORISOPENFUCKING2_5
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2118bf96b22578ac0800000000000000
+      internalID: -3853020609777008366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THEGODDAMNDOORISOPENFUCKING2_6
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1f4e3a302981ab0800000000000000
+      internalID: -5037115638881652303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THEGODDAMNDOORISOPENFUCKING2_7
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 0
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19ab6637ed02f0f0800000000000000
+      internalID: -1084789273541236450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THEGODDAMNDOORISOPENFUCKING2_8
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1a95d44721832f0800000000000000
+      internalID: -993023427111968328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THEGODDAMNDOORISOPENFUCKING2_9
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 0
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f86884ef80f39ae0800000000000000
+      internalID: -1543625746452813581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THEGODDAMNDOORISOPENFUCKING2_10
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 0
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df018c59f9bd7c30800000000000000
+      internalID: 4358844495014465489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THEGODDAMNDOORISOPENFUCKING2_11
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 0
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061acc42cab475e60800000000000000
+      internalID: 7950906869869748576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THEGODDAMNDOORISOPENFUCKING2_12
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 0
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef9d2acad64b9560800000000000000
+      internalID: 7321523524729675744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THEGODDAMNDOORISOPENFUCKING2_13
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 0
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ecd68d341f78010800000000000000
+      internalID: 1191185900158963263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THEGODDAMNDOORISOPENFUCKING2_14
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386b9062e39b05cc0800000000000000
+      internalID: -3724273215258118525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THEGODDAMNDOORISOPENFUCKING2_15
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 0
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8503937b1540e10800000000000000
+      internalID: 2162943568425015478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THEGODDAMNDOORISOPENFUCKING2_16
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 0
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68266b24c338787f0800000000000000
+      internalID: -610374929644887418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      THEGODDAMNDOORISOPENFUCKING2_0: -2100582574806176802
+      THEGODDAMNDOORISOPENFUCKING2_1: 3853113237093045522
+      THEGODDAMNDOORISOPENFUCKING2_10: 4358844495014465489
+      THEGODDAMNDOORISOPENFUCKING2_11: 7950906869869748576
+      THEGODDAMNDOORISOPENFUCKING2_12: 7321523524729675744
+      THEGODDAMNDOORISOPENFUCKING2_13: 1191185900158963263
+      THEGODDAMNDOORISOPENFUCKING2_14: -3724273215258118525
+      THEGODDAMNDOORISOPENFUCKING2_15: 2162943568425015478
+      THEGODDAMNDOORISOPENFUCKING2_16: -610374929644887418
+      THEGODDAMNDOORISOPENFUCKING2_2: -2110196221624972003
+      THEGODDAMNDOORISOPENFUCKING2_3: -7848406097970764084
+      THEGODDAMNDOORISOPENFUCKING2_4: 2495448874473732910
+      THEGODDAMNDOORISOPENFUCKING2_5: -3853020609777008366
+      THEGODDAMNDOORISOPENFUCKING2_6: -5037115638881652303
+      THEGODDAMNDOORISOPENFUCKING2_7: -1084789273541236450
+      THEGODDAMNDOORISOPENFUCKING2_8: -993023427111968328
+      THEGODDAMNDOORISOPENFUCKING2_9: -1543625746452813581
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
