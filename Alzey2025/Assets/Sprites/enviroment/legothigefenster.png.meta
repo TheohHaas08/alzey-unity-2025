@@ -1,49 +1,55 @@
 fileFormatVersion: 2
-guid: c7fdba7be1bab7a40acadbc732945f6b
+guid: 6463f796a1ad5f741bbd75039c612697
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8757098914875501893
-    second: die_0
+      213: 3608349655870373896
+    second: legothigefenster_0
   - first:
-      213: -6103215479232170835
-    second: die_1
+      213: 4246739217420921428
+    second: legothigefenster_1
   - first:
-      213: -5062548802251577173
-    second: die_2
+      213: 6172219297224580153
+    second: legothigefenster_2
   - first:
-      213: 2613213492379772746
-    second: die_3
+      213: -8888547931409849297
+    second: legothigefenster_3
   - first:
-      213: -3911252712821790162
-    second: die_4
+      213: 679775912707315114
+    second: legothigefenster_4
   - first:
-      213: 2167553827956773973
-    second: die_5
+      213: 6240642684986096817
+    second: legothigefenster_5
   - first:
-      213: 8269481862698526196
-    second: die_6
+      213: 4588569638529861545
+    second: legothigefenster_6
   - first:
-      213: 6971096030062609727
-    second: die_7
+      213: 7528139809071658469
+    second: legothigefenster_7
   - first:
-      213: -6493708898697568893
-    second: die_8
+      213: -4841686214917972206
+    second: legothigefenster_8
   - first:
-      213: 2862632215882366482
-    second: die_9
+      213: 2752757595714398277
+    second: legothigefenster_9
   - first:
-      213: -6684223620237878856
-    second: die_10
+      213: -2352417603975278424
+    second: legothigefenster_10
   - first:
-      213: -880313252550374251
-    second: die_11
+      213: 1159601967505800302
+    second: legothigefenster_11
   - first:
-      213: 3856624869688356372
-    second: die_12
+      213: -140854064846826251
+    second: legothigefenster_12
   - first:
-      213: 2136911065165560782
-    second: die_13
+      213: 4988531422756420087
+    second: legothigefenster_13
+  - first:
+      213: 3251531674083926068
+    second: legothigefenster_14
+  - first:
+      213: -8819065627645880731
+    second: legothigefenster_15
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -76,7 +82,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -90,7 +96,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -114,7 +120,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -139,13 +145,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: die_0
+      name: legothigefenster_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 16
-        height: 16
+        x: 31
+        y: 399
+        width: 50
+        height: 130
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,20 +160,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 54dec14e017778970800000000000000
-      internalID: 8757098914875501893
+      spriteID: 8008e87e4ee631230800000000000000
+      internalID: 3608349655870373896
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: die_1
+      name: legothigefenster_1
       rect:
         serializedVersion: 2
-        x: 16
-        y: 0
-        width: 16
-        height: 16
+        x: 111
+        y: 399
+        width: 50
+        height: 130
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -176,20 +182,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: da473bc9bd50d4ba0800000000000000
-      internalID: -6103215479232170835
+      spriteID: 45a281c61d27fea30800000000000000
+      internalID: 4246739217420921428
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: die_2
+      name: legothigefenster_2
       rect:
         serializedVersion: 2
-        x: 32
-        y: 0
-        width: 16
-        height: 16
+        x: 191
+        y: 399
+        width: 50
+        height: 130
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -198,20 +204,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ba827b7dfa63eb9b0800000000000000
-      internalID: -5062548802251577173
+      spriteID: 93cd1eebfb028a550800000000000000
+      internalID: 6172219297224580153
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: die_3
+      name: legothigefenster_3
       rect:
         serializedVersion: 2
-        x: 48
-        y: 0
-        width: 16
-        height: 16
+        x: 271
+        y: 399
+        width: 50
+        height: 130
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -220,20 +226,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a47ed8f63dff34420800000000000000
-      internalID: 2613213492379772746
+      spriteID: f24684bffb885a480800000000000000
+      internalID: -8888547931409849297
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: die_4
+      name: legothigefenster_4
       rect:
         serializedVersion: 2
-        x: 64
-        y: 0
-        width: 16
-        height: 16
+        x: 31
+        y: 272
+        width: 50
+        height: 97
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,20 +248,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e2a6971616078b9c0800000000000000
-      internalID: -3911252712821790162
+      spriteID: aa559cb479c0f6900800000000000000
+      internalID: 679775912707315114
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: die_5
+      name: legothigefenster_5
       rect:
         serializedVersion: 2
-        x: 80
-        y: 0
-        width: 16
-        height: 16
+        x: 111
+        y: 272
+        width: 50
+        height: 97
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -264,20 +270,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 554d6eae8b2b41e10800000000000000
-      internalID: 2167553827956773973
+      spriteID: 1bc7cb825773b9650800000000000000
+      internalID: 6240642684986096817
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: die_6
+      name: legothigefenster_6
       rect:
         serializedVersion: 2
-        x: 96
-        y: 0
-        width: 16
-        height: 16
+        x: 191
+        y: 272
+        width: 50
+        height: 97
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,20 +292,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4f56ea6c0f913c270800000000000000
-      internalID: 8269481862698526196
+      spriteID: 9a707b366cfddaf30800000000000000
+      internalID: 4588569638529861545
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: die_7
+      name: legothigefenster_7
       rect:
         serializedVersion: 2
-        x: 112
-        y: 0
-        width: 16
-        height: 16
+        x: 271
+        y: 272
+        width: 50
+        height: 97
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -308,20 +314,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f358407a7ee4eb060800000000000000
-      internalID: 6971096030062609727
+      spriteID: 5e571334543597860800000000000000
+      internalID: 7528139809071658469
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: die_8
+      name: legothigefenster_8
       rect:
         serializedVersion: 2
-        x: 128
-        y: 0
-        width: 16
-        height: 16
+        x: 31
+        y: 190
+        width: 50
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -330,20 +336,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 38d965a6926b1e5a0800000000000000
-      internalID: -6493708898697568893
+      spriteID: 21f98e53a00eeccb0800000000000000
+      internalID: -4841686214917972206
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: die_9
+      name: legothigefenster_9
       rect:
         serializedVersion: 2
-        x: 144
-        y: 0
-        width: 16
-        height: 16
+        x: 111
+        y: 190
+        width: 50
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -352,20 +358,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 21ef14e55dc1ab720800000000000000
-      internalID: 2862632215882366482
+      spriteID: 548a055d272c33620800000000000000
+      internalID: 2752757595714398277
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: die_10
+      name: legothigefenster_10
       rect:
         serializedVersion: 2
-        x: 160
-        y: 0
-        width: 16
-        height: 16
+        x: 191
+        y: 190
+        width: 50
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -374,20 +380,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8b9127c280edc33a0800000000000000
-      internalID: -6684223620237878856
+      spriteID: 8a09daf17a88a5fd0800000000000000
+      internalID: -2352417603975278424
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: die_11
+      name: legothigefenster_11
       rect:
         serializedVersion: 2
-        x: 176
-        y: 0
-        width: 16
-        height: 16
+        x: 271
+        y: 190
+        width: 50
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -396,20 +402,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 59c8aaac2cf78c3f0800000000000000
-      internalID: -880313252550374251
+      spriteID: e6cf60a78dbb71010800000000000000
+      internalID: 1159601967505800302
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: die_12
+      name: legothigefenster_12
       rect:
         serializedVersion: 2
-        x: 192
-        y: 0
-        width: 16
-        height: 16
+        x: 31
+        y: 31
+        width: 50
+        height: 130
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -418,20 +424,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 41e26bdb2eb758530800000000000000
-      internalID: 3856624869688356372
+      spriteID: 5f492ab69f59b0ef0800000000000000
+      internalID: -140854064846826251
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: die_13
+      name: legothigefenster_13
       rect:
         serializedVersion: 2
-        x: 208
-        y: 0
-        width: 16
-        height: 16
+        x: 111
+        y: 31
+        width: 50
+        height: 130
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -440,8 +446,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ecb7bcbba45d7ad10800000000000000
-      internalID: 2136911065165560782
+      spriteID: 7f9354c06e2da3540800000000000000
+      internalID: 4988531422756420087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legothigefenster_14
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 31
+        width: 50
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43024b984d2cf1d20800000000000000
+      internalID: 3251531674083926068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: legothigefenster_15
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 31
+        width: 50
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5665f4d79826c9580800000000000000
+      internalID: -8819065627645880731
       vertices: []
       indices: 
       edges: []
@@ -450,7 +500,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: d60996069411b0a4687d80ec01f9b818
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -460,20 +510,22 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      die_0: 8757098914875501893
-      die_1: -6103215479232170835
-      die_10: -6684223620237878856
-      die_11: -880313252550374251
-      die_12: 3856624869688356372
-      die_13: 2136911065165560782
-      die_2: -5062548802251577173
-      die_3: 2613213492379772746
-      die_4: -3911252712821790162
-      die_5: 2167553827956773973
-      die_6: 8269481862698526196
-      die_7: 6971096030062609727
-      die_8: -6493708898697568893
-      die_9: 2862632215882366482
+      legothigefenster_0: 3608349655870373896
+      legothigefenster_1: 4246739217420921428
+      legothigefenster_10: -2352417603975278424
+      legothigefenster_11: 1159601967505800302
+      legothigefenster_12: -140854064846826251
+      legothigefenster_13: 4988531422756420087
+      legothigefenster_14: 3251531674083926068
+      legothigefenster_15: -8819065627645880731
+      legothigefenster_2: 6172219297224580153
+      legothigefenster_3: -8888547931409849297
+      legothigefenster_4: 679775912707315114
+      legothigefenster_5: 6240642684986096817
+      legothigefenster_6: 4588569638529861545
+      legothigefenster_7: 7528139809071658469
+      legothigefenster_8: -4841686214917972206
+      legothigefenster_9: 2752757595714398277
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
